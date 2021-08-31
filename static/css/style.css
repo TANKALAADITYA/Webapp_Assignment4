@@ -1,0 +1,7 @@
+body{
+     background-color: rgb(209, 203, 110);
+}
+input[type = text]
+{
+    width: 70%;
+}
